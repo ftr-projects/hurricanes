@@ -1,0 +1,578 @@
+.harvey .container {
+  padding-right: 15px !important;
+    padding-left: 15px !important;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.helpful-links ul li {
+  margin-left: 25px !important;
+}
+
+.hero-img {
+    width: 100%;
+    height: auto;
+}
+
+.post {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.l-bg {
+    background-color: #e8e8e8;
+}
+
+.d-bg {
+     background-color: #3f3f3f;
+    color: #fff;
+}
+
+.main-title {
+    color: #222222;
+    font-family: "nexa heavy";
+    font-size: 40px;
+    text-align: center;
+    margin: 70px 0 30px 0;
+}
+
+.sub-title {
+    font-family: "nexa bold italic";
+    font-size: 32px;
+    text-align: center;
+    color: #58595b;
+}
+.harvey h3 {
+    font-size: 29px;
+    margin-bottom: 16px;
+}
+
+.red {
+  color: #d9272d;
+}
+
+h3.strong {
+    font-family: "nexa heavy";
+}
+
+.harvey p, .harvey ul  {
+    font-size: 23px;
+    line-height: 37px;
+    list-style: disc;
+
+}
+
+.harvey ul li {
+    margin-bottom: 16px;
+}
+
+
+.red-bar {
+    background-color: #d9272d;
+    color: #fff;
+    text-align: center;
+    padding: 30px 0;
+}
+
+.red-bar .fa-phone {
+    font-size: 80px
+}
+
+.red-bar a {
+    color: #fff;
+}
+
+.bg-harvey {
+    background-image: url(../images/hands.jpg);
+    background-color: #e8e8e8;
+    background-size: cover;
+}
+
+nav.navbar-frontier {
+    margin-bottom: 0 !important;
+    border-bottom: 3px solid #d9272d !important;
+}
+
+
+nav.navbar-frontier .navbar-nav {
+    display: inline-block;
+    float: none;
+}
+
+nav.navbar-frontier .navbar-collapse {
+    text-align: center;
+}
+
+nav.navbar-frontier li {
+    margin-top: 6px;
+    margin-bottom: 0 !important;
+
+}
+
+nav.navbar-frontier li a {
+     font-family: "nexa bold";
+    font-size: 18px;
+}
+
+
+.res-iconbox-panel{
+    background-color: #fafafa;
+}
+
+.contactbar {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+
+.harvey-map iframe {
+    width: 100%;
+    height: 90vh;
+    min-height: 600px;
+}
+
+.harvey-map h3, .social-media h3, .national h3, .helpful-links h3 {
+    color: #222222;
+    font-family: "nexa heavy";
+    font-size: 40px;
+    text-align: center;
+    margin: 0;
+    padding: 70px 0 30px;
+}
+
+
+.harvey .social-media {
+    padding:30px  0;
+}
+
+.harvey .social-media h3, .national.d-bg h3, .helpful-links h3 {
+    color:#fff;
+    margin-bottom: 35px;
+}
+
+.harvey .social-container {
+    height: 400px;
+    overflow-y: auto;
+}
+
+.harvey .social-icons-ftr .smi i, .harvey .social-icons-ftr .smi em {
+
+    color: #ffffff;
+}
+
+.big-bullets {
+    list-style: none !important;
+}
+
+.big-bullets li:before {
+   content: "•";
+   font-size: 190%;
+   padding-right: 5px;
+
+}
+.helpful-links {
+    padding-bottom: 60px;
+}
+.helpful-links ul, .helpful-links a {
+    color: #fff !important;
+    font-size: 18px;
+    line-height: 21px;
+    text-decoration: underline;
+    font-family: "nexa book";
+}
+
+
+
+.national .contactbar img {
+   max-height: 80px;
+   text-align: center;
+    margin: auto;
+
+}
+
+.video-js .vjs-play-progress {
+  background-color: transparent;
+}
+
+.national.d-bg {
+    background-color: #3f3f3f ;
+    color: #fff;
+}
+
+
+
+
+.iconbox-panel .icon-box {
+    color: #333;
+    background-color: #fff;
+    font-family: "Nexa";
+    font-size: 20px;
+    font-style: normal;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .25);
+    transition: All .3s ease;
+    min-height: 200px;
+    padding-top: 25px;
+}
+
+    .iconbox-panel .icon-box a {
+        font-family: "Nexa";
+    }
+
+.iconbox-panel .icon-box .fa, .iconbox-panel .icon-box .fa-stack {
+    line-height: normal;
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.iconbox-panel .icon-box a:hover {
+    text-decoration: underline;
+}
+
+.iconbox-panel .icon-box:hover {
+    cursor: pointer;
+}
+
+.icon-box-phone-link:hover {
+    text-decoration: none !important;
+    cursor: default !important;
+}
+
+.iconbox-panel .subtitle {
+    font-size: 18px;
+}
+
+.iconbox-panel .icon-box a {
+    color: #333;
+}
+
+    .iconbox-panel .icon-box a div.icon-wrapper {
+        line-height: initial;
+        padding-bottom: 10px;
+    }
+
+    .iconbox-panel .icon-box a div.complex-wrapper {
+        padding-left: 0px;
+    }
+
+.iconbox-panel .subtitle i {
+    color: #278189;
+    width: 32px;
+}
+
+.custom-icon {
+    /*font-size: 40px;*/
+    background: #666;
+    background: #d9272d;
+    padding: 30px;
+    -webkit-border-radius: 1100%;
+    -moz-border-radius: 100%;
+    -o-border-radius: 100%;
+    border-radius: 100%;
+    color: #fff;
+    display: inline-table;
+    vertical-align: middle;
+    width: 60px;
+    height: 60px;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    -o-transition: .5s;
+    transition: .5s;
+}
+
+.icon-increase-padding-3 {
+    padding-left: 33px;
+    padding-right: 33px;
+}
+
+.icon-increase-padding-5 {
+    padding-left: 35px;
+    padding-right: 35px;
+}
+
+.social-media .col-sm-4.clearfix {
+    margin-bottom: 25px;
+}
+
+.harvey .social-icons-ftr .smi {
+    width: 40px;
+    height: 40px;
+}
+
+.harvey .social-icons-ftr .smi i, .harvey .social-icons-ftr .smi em {
+    font-size: 22px;
+    line-height: 26px;
+    color: #ffffff;
+}
+
+.harvey .social-icons-ftr .smi.smi-youtube i, .harvey .social-icons-ftr .smi.smi-googleplus i, .harvey .social-icons-ftr .smi.smi-youtube em, .harvey .social-icons-ftr .smi.smi-googleplus em  {
+    font-size: 25px;
+     line-height: 32px;
+}
+.helpful-links .container {
+    padding-left: 15px !important;
+    padding-right: 15px !important;
+}
+
+.video-promo {
+  /*background-image: url(../images/hands.jpg);*/
+  background-color: #e8e8e8;
+  background-size: cover;
+  padding: 40px 0 60px;
+}
+
+.video-promo h3 {
+  margin-top: 30px;
+  text-align: right;
+  font-size: 32px;
+  font-family: "nexa black";
+  position: relative;
+  /*top: 50%;
+  transform: translateY(-50%);*/
+}
+
+
+/* -----------------------------------------------*/
+.harvey-slider {
+  position: relative;
+  visibility: hidden;
+}
+
+.harvey-slider.slick-initialized {
+  visibility: visible;
+}
+
+.slick-dotted.slick-slider{
+  margin-bottom: 0 !important;
+}
+
+.slick-dots {
+  bottom: 6px !important;
+  height: 20px;
+}
+
+.slick-dots li button:before, .slick-dots li.slick-active button:before {
+  color: #d9272d;
+}
+
+.slick-slider {
+  margin-bottom: 0 !important;
+}
+
+.harvey-slider .slide, .harvey-slider .slide {
+  height: 380px;
+}
+
+.harvey-slider .slide-1 {
+  background-image: url(../images/harvey-slide-2-phase3.jpg);
+  background-size: cover;
+  background-color: #000;
+  background-position: center center;
+}
+
+.harvey-slider .slide-2 {
+  background-image: url(../images/harvey-slide-1-phase3.jpg);
+  background-size: cover;
+  background-color: #000;
+  background-position: center center;
+}
+
+.harvey-slider .slide .content {
+  color: #fff;
+  padding: 0 40px;
+  width: 100%;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.harvey-slider .slide.slide-video {
+  background-image: url(../images/hands.jpg);
+  background-color: #e8e8e8;
+  background-size: cover;
+}
+
+/*.slide-video .col-sm-5 {
+  top: 50%;
+  transform: translateY(-50%);
+}*/
+.video-wrapper {
+   position: relative;
+   display: block;
+   max-width: 690px;
+   margin-top: 30px;
+   height: 310px;
+}
+
+
+.harvey-slider .slide.slide-video h3 {
+  margin-top: 60px;
+  text-align: right;
+  font-size: 32px;
+  font-family: "nexa xbold";
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.harvey-slider .slide.slide-3 {
+  background-image: url('../images/water-brand.png');
+}
+
+.harvey-slider .slide .content-video {
+  width: auto;
+  max-height: 210px;
+  position: relative;
+
+  /*top: 50%;
+  transform: translateY(-50%);*/
+}
+
+
+
+.harvey-slider .slide .content-video > div {
+  /*height: 260px;*/
+}
+
+.harvey-slider .slide h1 {
+  font-family: "nexa xbold";
+  font-size: 22px;
+  margin: 0;
+}
+
+.harvey-slider .slide h3 {
+  font-family: "nexa book";
+  font-size: 18px;
+}
+
+.harvey-slider .slide h2 {
+  font-family: "nexa black";
+  font-size: 20px;
+  color: #d9272d;
+}
+
+.harvey-slider .slide-2 .content {
+  color: #222222;
+}
+
+.harvey-slider.irma .slide .content {
+  width: 100%;
+  margin-top: 0;
+}
+
+.harvey-slider.irma .slide .content {
+  color: #000;
+}
+
+.harvey-slider.irma .slide-1 {
+  background-image: url(../images/irma-slide-1-phase3.jpg);
+  background-size: cover;
+  background-color: #fff;
+  background-position: left center;
+}
+
+.harvey-slider.irma .slide-2 {
+  background-image: url(../images/irma-slide-2-phase3.jpg);
+  background-size: cover;
+  background-color: #fff;
+  background-position: center center;
+}
+
+.harvey-slider.irma .slide-3 {
+  background-color: #151b17;
+  margin:auto;
+  background-position: center center;
+}
+
+.harvey-slider .slide-3 div {
+  margin:auto;
+}
+
+.harvey-slider h1.phase3 {
+  line-height: initial;
+  color: #000;
+}
+
+.harvey-slider h1.phase3 strong {
+  font-family: "nexa black";
+}
+
+@media only screen and (min-width: 768px) {
+
+
+  .harvey-slider .slide .content {
+    padding: 0 40px;
+    width: 60%;
+  }
+
+  .harvey-slider.irma .slide .content {
+    width: 60%;
+    /*margin-top: -30px;*/
+  }
+
+  .harvey-slider .slide h1 {
+    font-size: 28px;
+  }
+
+  .harvey-slider .slide h3 {
+    font-size: 20px;
+  }
+
+  .harvey-slider .slide h2 {
+    font-size: 24px;
+  }
+
+  .harvey-slider h1.phase3 {
+    line-height: 40px;
+  }
+}
+
+.slick-dots li button:before {
+  font-size: 18px;
+}
+
+/*-----------------------*/
+
+@media only screen and (min-width: 768px) {
+    .iconbox-panel .icon-box:hover {
+        transform: scale(1.05);
+    }
+
+    .harvey .social-icons-ftr .smi {
+        width: 60px;
+        height: 60px;
+    }
+
+.main-title {
+  font-size: 50px;
+}
+
+    .harvey .social-icons-ftr .smi i, .harvey .social-icons-ftr .smi em {
+        font-size: 26px;
+        line-height: 40px;
+        color: #ffffff;
+    }
+
+    .harvey .social-icons-ftr .smi.smi-youtube i, .harvey .social-icons-ftr .smi.smi-googleplus i, .harvey .social-icons-ftr .smi.smi-youtube em, .harvey .social-icons-ftr .smi.smi-googleplus em  {
+        font-size: 29px;
+         line-height: 48px;
+    }
+
+    .iconbox-panel .icon-box {
+      font-size: 25px;
+    }
+
+
+}
+
+@media only screen and (min-width: 992px) {
+  .contactbar {
+    margin-top: 50px;
+    margin-bottom: 30px;
+  }
+}
